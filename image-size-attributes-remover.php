@@ -1,1 +1,0 @@
-/Users/Kaito/Dropbox/GitHub/image-size-attributes-remover/image-size-attributes-remover.php
